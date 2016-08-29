@@ -1,0 +1,50 @@
+body{background:#ff9;}
+aside{
+	width:300px; 
+	height:1396px;
+	border :#606 2px solid; 
+	position:relative; 
+	float:left;
+	margin-left:175px;
+}
+#myself{
+	width:120px;
+	height:180px;
+	border:#3c0 5px solid; 
+	border-radius:100px;
+	margin:30px 87px 0px 87px; 
+}
+#name{text-align:center;}
+#introduction{display:none;}
+h4{text-align:left; padding:5px;}
+
+.main{
+	width:700px; 
+	height:1396px; 
+	border:#606 2px solid;
+	border-left:0px; 
+	position:relative; 
+	float:left;
+}
+section{
+	padding:10px; 
+	border-bottom:#606 2px solid;
+}
+.skill{padding-left:60px;}
+.person{
+	width:300px;
+	 height:50px;
+	 position:relative; 
+	 float:left;
+	}
+.edu{
+	width:180px;
+	height:50px;
+	position:relative; 
+	float:left;
+}
+header{
+	text-align:center;
+	border-bottom:#606 2px solid;
+}
+#honor{border-bottom:0px;}
